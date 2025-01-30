@@ -1,6 +1,6 @@
 folder structure:-
-routes|->userroutes|->login
-                   |->signup
+routes|->userroutes|->login\n
+                   |->signup\n
       |->triproutes|->create trip
                    |->getalltrips
                    |->gettripbyid
