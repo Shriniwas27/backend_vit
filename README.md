@@ -1,8 +1,8 @@
 folder structure:-
-routes|->userroutes|->login\n
-                   |->signup\n
-      |->triproutes|->create trip
-                   |->getalltrips
+routes|->userroutes|->login <br/>
+                   |->signup <br/>
+      |->triproutes|->create trip  <br/>
+                   |->getalltrips  <br/>
                    |->gettripbyid
 
 models|->usermodel
